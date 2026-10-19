@@ -3,8 +3,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaioRodri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioRodri&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <table border="0">
+    <tr>
+      <td align="left" valign="middle">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=5000&color=BD93F9&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Sou+estudante+de+Eng.+De+Software;Em+uma+jornada+de+aprendizado...+" alt="Typing SVG" />
+        </a>
+      </td>
+      <td align="right" valign="middle">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4eG9rbm9rNG14bWhuZ3M0MnV4dWc3cTJjc2UxbGVpZm14bTRmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kX7OWl40hcz64ScRsc/giphy.gif" width="160" alt="Frieren journey gif" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
