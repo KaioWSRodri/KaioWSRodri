@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=5000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Sou+estudante+de+Eng.+De+Software)](https://git.io/typing-svg)
 
 ###
 
