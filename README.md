@@ -2,12 +2,14 @@
 ###
 
 <div align="center">
-  <img align="right" width="160" src="https://media1.tenor.com/m/lsZ7FgM9AuB/frieren.gif" alt="Frieren GIF" />
+  <img align="right" width="160" src="https://raw.githubusercontent.com/KaioRodri/KaioRodri/main/frieren.gif" alt="Frieren GIF" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=5000&color=BD93F9&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Sou+estudante+de+Eng.+De+Software;Em+uma+jornada+de+aprendizado...+" alt="Typing SVG" />
   </a>
 </div>
+
+<br clear="both" />
 
 <br clear="both" />
 
