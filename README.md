@@ -2,11 +2,11 @@
   <tr>
     <td align="left" valign="middle">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=5000&color=BD93F9&width=380&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Sou+estudante+de+Eng.+De+Software;Em+uma+jornada+de+aprendizado...+" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=5000&color=BD93F9&width=460&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Sou+estudante+de+Eng.+De+Software;Em+uma+jornada+de+aprendizado...+" alt="Typing SVG" />
       </a>
     </td>
     <td align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/KaioWSRodri/KaioWSRodri/main/frieren.gif" width="160" alt="Frieren GIF" />
+      <img src="https://raw.githubusercontent.com/KaioWSRodri/KaioWSRodri/main/frieren.gif" width="130" alt="Frieren GIF" />
     </td>
   </tr>
 </table>
