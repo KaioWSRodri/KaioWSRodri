@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=5000&color=BD93F9&background=00000000&width=440&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Sou+estudante+de+Eng.+De+Software;Em+uma+jornada+de+aprendizado...+" alt="Typing SVG" align="left" />
   </a>
-  <img src="https://raw.githubusercontent.com/KaioWSRodri/KaioWSRodri/main/frieren.gif" width="140" alt="Frieren GIF" align="right" />
+  <img src="https://raw.githubusercontent.com/KaioWSRodri/KaioWSRodri/main/frieren.gif" width="160" alt="Frieren GIF" align="right" />
 </p>
 
 <br clear="both" />
