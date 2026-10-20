@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img align="right" width="180" src="[https://media.giphy.com/media/d9A3XKqTV3QC2C3Xyv/giphy.gif](https://tenor.com/oPJRSR04sh4.gif)" alt="Frieren journey" />
+  <img align="right" width="180" src="[[https://media.giphy.com/media/d9A3XKqTV3QC2C3Xyv/giphy.gif](https://tenor.com/oPJRSR04sh4.gif](https://tenor.com/lsZ7FgM9AuB.gif))" alt="Frieren journey" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=5000&color=BD93F9&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kaio;Sou+estudante+de+Eng.+De+Software;Em+uma+jornada+de+aprendizado...+" alt="Typing SVG" />
